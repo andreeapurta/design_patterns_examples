@@ -12,8 +12,7 @@ Using OOP means that at some point in our applications we need to instantiate so
 
 ## Pro vs cons
 
-![image-20220809175759775](C:\Users\andreeapurta\AppData\Roaming\Typora\typora-user-images\image-20220809175759775.png)
-
+![image](https://user-images.githubusercontent.com/67948869/183693208-1e150257-d5f4-4657-8359-177c2919236b.png)
 
 
 ## How to implement
@@ -31,4 +30,4 @@ As a smartphone user, I want to be able to get a new phone. Based on my choice, 
 
 ### Solution
 
-![ClassDiagram](C:\repos\design_patterns_examples\FactoryPattern\ClassDiagram.png)
+![image](https://user-images.githubusercontent.com/67948869/183692773-cbe82c6b-0a4c-4bfd-9d98-4b8e42050962.png)
