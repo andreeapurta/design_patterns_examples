@@ -1,2 +1,67 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ClassDiagram /> 
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FactoryPattern.ApplePhone">
+    <Position X="6.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQgAAAAAAAA=</HashCode>
+      <FileName>ApplePhone.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryPattern.AppleStore">
+    <Position X="2.5" Y="5.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AppleStore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryPattern.Courier" Collapsed="true">
+    <Position X="2.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Courier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryPattern.HuaweiPhone">
+    <Position X="9" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQgAAAAAAAA=</HashCode>
+      <FileName>HuaweiPhone.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryPattern.HuaweiStore">
+    <Position X="4.5" Y="5.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HuaweiStore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryPattern.SamsungPhone">
+    <Position X="11.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQgAAAAAAAA=</HashCode>
+      <FileName>SamsungPhone.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryPattern.SamsungStore">
+    <Position X="0.5" Y="5.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SamsungStore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryPattern.SmartPhone">
+    <Position X="9" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQgAAAAAAAA=</HashCode>
+      <FileName>SmartPhone.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryPattern.SmartPhoneStore">
+    <Position X="2.5" Y="3" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>SmartPhoneStore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
