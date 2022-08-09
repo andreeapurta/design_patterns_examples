@@ -1,7 +1,5 @@
 # Factory Method Pattern
 
-------
-
 Using OOP means that at some point in our applications we need to instantiate some objects. The question is where do we instantiate them? 
 
 **Factory Method** is a creational design pattern that provides an interface for creating objects in a superclass, but allows subclasses to alter the type of objects that will be created.
